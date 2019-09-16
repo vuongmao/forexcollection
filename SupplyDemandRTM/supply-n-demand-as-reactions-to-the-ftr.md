@@ -14,3 +14,8 @@ Chắc chắn có những vùng khác và lý do các mẫu S/D. Giống như b�
 
 ![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/fl-zone-important.png)
 
+Có nhiều vùng S/D không được đánh dấu ở trên biểu đồ, nhưng chúng giữ ở mức giá ít quan trọng hơn mẫu break mức cao hay mức mức thấp. Tuy nhiên những mức quan trọng cũng có thể bị phá vỡ, vì vậy điều quan trọng là theo dõi những tín hiệu ở mức đó của sự đảo chiều. Tuy nhiển khi nào chúng bị phá vỡ, chúng giữ rất nhiều điều quan trọng
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/fl-zone-lesser-important.png)
+
+Bạn có thể nhìn thấy từ bức hình trên đây, tôi đã đánh dấu một DBR sau một break của mức cao bên trái nó. Đây là một mức giá đó là mô hình sau khi break một mức cao, nó là một FTR, và chúng ta có thể kỳ vọng nó giá bật ngược trở lại, nhưng nó không, nó đã break. FTR đó lấy được tiền là RBD đó là một điều quan trong, đây là chỗ chúng ta muốn tìm kiếm về PA.

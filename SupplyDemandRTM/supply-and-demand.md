@@ -17,3 +17,14 @@ Khi người bán nhiều hơn giá sẽ đi xuống (rớt giá) cho đến khi
 Trong suốt quá trình hình thành vùng base, chúng ta xem như giá cả được cân bằng. Điều này là bở vì ở đó không có sự khác biệt lớn nào giữa số lượng người bán và số lượng người mua. Do đó giá không tăng vọt và cũng không giảm mạnh miễn là sự cân bằng vẫn còn tồn tại ở đó.
 
 Để giá bắt đầu di chuyển theo một hướng cụ thể cần có sự tăng lên ở phía người bán và người mua, đây cũng là một điểm quyết định xác nhận giá tại ví trí đó là quá rẻ hay quá mắc. Khi giá vượt ra khỏi base, những đơn hàng thông thường ở đó vẫn còn đó. Vì thế khi giá quay trở lại vùng base trong tương lai, chúng ta có thể kỳ vọng những đơn hàng còn lại sẽ được kích hoạt (triggered) gây ra một phản ừng về giá. Đây là những gì trader supply and demand cố gắng và tận dụng.
+
+# KHI NÀO MỨC SUPPLY/DEMAND BỊ PHÁ VỠ
+
+Khi một mức giá được tested nhiều lần, hay trong suốt quá trình di chuyển mạnh, các mức supply/demand cuối cùng bị phá vỡ. Điều này có thể là do các đơn đặt hàng còn lại đã được kích hoạt trước đó, và loại bỏ dần (gradually removed). Hoặc một lượng lớn đơn đặt hàng ở hướng ngược lại phá vỡ cấp độ này. Những đơn đặt hàng có thể được lấy đi thủ công bởi các nhà giao dịch những người hình thành mức giá.
+
+Mỗi một mức cung cầu bị phá vỡ đều mang một ý nghĩa, tại nơi đó lượng mua hay bán nhiều hơn vẫn còn tồn tại hay đã thoát ra. Điều này có thể thấy khi giá quay trở lại vùng phá vỡ trước đó với một phản ứng giá. Những mức như vậy gọi là 'swap'.
+
+Tại những mức này, nơi mà chúng ta tìm kiếm để hình thành một giao dịch. Điều này được trông như thế nào trên biểu đồ:
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/s-d-broken.png)
+

@@ -42,5 +42,5 @@ Hãy xem lại một các cẩn thận, bạn sẽ nhìn thấy rằng chúng c�
 
 Nào chúng ta đã học về các mẫu hình phía trên, chúng ta có thể xem các ví dụ thực tế của FTRs
 
-![](ftr-base-real-example.png)
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-base-real-example.png)
 

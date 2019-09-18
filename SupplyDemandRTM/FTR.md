@@ -26,7 +26,7 @@ Bây giờ chúng ta hãy xem xét giải phẫu học của FTR
 
 Trong những bức hình dưới đây bạn có thể nhìn thấy một vài biến thể của FTR.
 
-![](ftr-variations-pattern.png)
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-variations-pattern.png)
 
 Đường kẻ (a) đại diện cho một rào cản - nó có thể là đường HỖ TRỢ/KHÁNG CỰ, Một FTR trong hướng ngược lại (sẽ được giải thích sau) hay giới hạn của PAZ (price action zone)
 

@@ -32,9 +32,15 @@ Trong những bức hình dưới đây bạn có thể nhìn thấy một vài 
 
 Price action phá vỡ rào cản (1) và hồi lại (2), nó không liên quan cho dù hành động giá có cắt qua rào cản (a) trở lại hay không (Như ví dụ ii, và iv ở trên). Tại cực điểm của cú hồi, base thường xuyên được tạo ra (b).
 
-Sau đó giá sẽ tiếp tục quay trở lại xu hướng phá vỡ (3). FTR đã được xác nhận sau khi giá phá vỡ high/low (c), mẫu hình sau khi phá vỡ rào cản. **Chỉ sau khi phá vỡ (c) chúng ta có thể nói price action thực sự fail to return (FTR).
+Sau đó giá sẽ tiếp tục quay trở lại xu hướng phá vỡ (3). FTR đã được xác nhận sau khi giá phá vỡ high/low (c), mẫu hình sau khi phá vỡ rào cản. **Chỉ sau khi phá vỡ (c) chúng ta có thể nói price action thực sự fail to return (FTR).**
 
 Bây giờ, khi FTR đã được xác nhận, chúng ta vẽ một hình chữ nhật tại vùng base (b), và kéo nó (protract) về phía bên phải.
 
 Hãy xem lại một các cẩn thận, bạn sẽ nhìn thấy rằng chúng có một chút thay đổi nhưng hãy ghi nhớ: Chúng hoàn toàn giống nhau về mặt cấu trúc.
+
+### Gợi ý 2: Để biết thông tin làm thế nào để vẽ các vùng chữ nhật màu xanh, xem bài viết [Caps on Price] tại RTM marketmedia.
+
+Nào chúng ta đã học về các mẫu hình phía trên, chúng ta có thể xem các ví dụ thực tế của FTRs
+
+![](ftr-base-real-example.png)
 

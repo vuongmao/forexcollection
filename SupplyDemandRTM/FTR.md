@@ -19,3 +19,22 @@ Có 3 câu hỏi quan trọng phải được trả lời, nào hãy làm nó.
 Thực tế giá khi đi đến được rào cản nhất định, một là nó phá vỡ rào cản hoặc sẽ quay trở lại. Một khi nó phá vỡ qua rào cản, có hai kịch bản có thể xuất hiện: Nó có thể quay trở lại phía trên hay phía dưới của rào cản và tiếp tục xu hướng chống lại sự phá vỡ hoặc 'fail to return' và tiếp tục xu hướng phá vỡ. Ở kịch bản sau (tức tiếp tục xu hướng phá vỡ), một FTR đã được tạo ra. LUÔN LUÔN, nó là tầm quan trọng sống còn để có thể xác định FTR.
 
 Tại sao? Chà, Có một áp lực (Pressure) mua hoặc bán gọi là Supply/Demand tại FTR, và giá không thể quay trở lại, nó phải tiếp tục theo xu hướng bị phá vỡ.
+
+### Gợi ý 1: Áp lực (pressure) hay bán luôn sót lại ở FTR sau khi giá đã rời khỏi đó. Bạn có nhìn thấy một hàm ý không?
+
+Bây giờ chúng ta hãy xem xét giải phẫu học của FTR
+
+Trong những bức hình dưới đây bạn có thể nhìn thấy một vài biến thể của FTR.
+
+![](ftr-variations-pattern.png)
+
+Đường kẻ (a) đại diện cho một rào cản - nó có thể là đường HỖ TRỢ/KHÁNG CỰ, Một FTR trong hướng ngược lại (sẽ được giải thích sau) hay giới hạn của PAZ (price action zone)
+
+Price action phá vỡ rào cản (1) và hồi lại (2), nó không liên quan cho dù hành động giá có cắt qua rào cản (a) trở lại hay không (Như ví dụ ii, và iv ở trên). Tại cực điểm của cú hồi, base thường xuyên được tạo ra (b).
+
+Sau đó giá sẽ tiếp tục quay trở lại xu hướng phá vỡ (3). FTR đã được xác nhận sau khi giá phá vỡ high/low (c), mẫu hình sau khi phá vỡ rào cản. **Chỉ sau khi phá vỡ (c) chúng ta có thể nói price action thực sự fail to return (FTR).
+
+Bây giờ, khi FTR đã được xác nhận, chúng ta vẽ một hình chữ nhật tại vùng base (b), và kéo nó (protract) về phía bên phải.
+
+Hãy xem lại một các cẩn thận, bạn sẽ nhìn thấy rằng chúng có một chút thay đổi nhưng hãy ghi nhớ: Chúng hoàn toàn giống nhau về mặt cấu trúc.
+

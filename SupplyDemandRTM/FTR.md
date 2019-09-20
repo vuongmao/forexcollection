@@ -87,3 +87,28 @@ Trong thực thế, biểu đồ hiếm ghi trông gọn gàng và sạch sẽ n
 Hãy dành thời gian và học ở biểu đồ trên, bạn có lẽ chú ý thấy rằng tôi không đánh dầu hoàn toàn tất cả các FTR bởi vì biểu đồ sẽ rất bừa bộn. Mở một biểu đồ trên nền tảng giao dịch của bạn và đánh dấu tất cả các FTR. Thực hành! đánh dấu điểm Swing High/Low, tìm nơi nó đã tạo engulfed, sau đó tìm FTR, lặp lại với mức high/low kế tiếp.
 
 Hãy nhớ, mục đích của bài học này không nói cho bạn rằng mỗi FTR đều có thể trade, nhưng dạy cho bạn như thế nào để phát hiện vùng FTR và như thế nào để đánh dấu nó. Để tôi lặp lại điều này: Nó là một điểu cực kỳ quan trọng!
+
+## FTR sau khi break một FTR trong xu hướng đảo chiều
+
+FTR được hình thành sau engufing của một barrier (rào cản). Chúng tã đã biết rằng, một trong những rảo cản (barriers) là một FTR ở hướng ngược chiều. Hãy xem biểu đồ phía dưới. Tôi nghĩ nó đã tự giải thích. **FTR d** đã bị engulfed và **FTR 1** đã được tạo, và tiếp tục như thế
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-break-ftr-opposite-direction.png)
+
+Một ví dụ thực tế
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-break-ftr-opposite-direction-real.png)
+
+### Gợi ý 4: FTR 1 là một sự xác nhận tuyệt vời của một sự đảo chiều. 
+
+
+## FTR sau khi break một giới hạn PAZ 
+
+Giới hạn của một PAZ là một rào cản (barrier - vùng FTR) khác, sự phá vỡ là kết quả cực kỳ quan trọng trong FTR! Đây là, tuy nhiên, đây là sự nâng cao hơn và nó vượt ra khỏi giói gian của bài viết này trong sự cơ bản của FTR.
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-break-paz-limit.png)
+
+## Kết luận
+
+Trong bài viết của tôi, tôi cố gắn giới thiệu những thứ rất quan trọng để xây dựng nên một cấu trúc về giá - FTR. Chúng ta đã được học, những FTR là những mẫu hình sau khi phá vỡ rào cản của giá (phá vỡ S/R). Quan trọng là nhận ra FTR ở đây nơi nào có các nhà giao dịch của các tổ chức open/close vị thế cảu họ. Điều này làm cho chúng trở thành nơi lý tưởng để xem xét cho một giao dịch hay một targets.
+
+Tuy nhiên, phải nhấn mạnh rằng FTR bản thân của nó là không đủ để giao dịch, một thức khác quan trọng để xây dựng những blocks, engulfing trở thành một điều quan trong nữa.

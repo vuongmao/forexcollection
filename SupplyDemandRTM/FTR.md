@@ -44,3 +44,46 @@ Nào chúng ta đã học về các mẫu hình phía trên, chúng ta có thể
 
 ![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-base-real-example.png)
 
+## FTR sau khi phá SUPPORT/RESISTANCE
+
+Những FTR sau khi phá vỡ support / resistance rất thường xuyên. Chúng ở khắp nơi trên biểu đồ bạn sẽ học để tìm chúng. Bạn phải chắc chắn rằng biết về những support / resistance chính chung như là những support / resistance phụ. Một điều quan trọng hơn là những S/R chúng ta phải gán cho cho những FTR theo sau đó.
+
+### S/R chính (Major S/R)
+
+OK, nào hãy bắt đầu với những S/R chính. Tôi giả sử rằng bạn đã biết về việc như thế nào để phân biệt (distinguish) một S/R chính từ S/R phụ ...
+
+Biểu đồ dưới đây, bạn có thể nhìn thấy đường kẻ màu nâu (Resistance). Resistance là một resistance chính khi nó được chạm vào nhiều lần ở trong quá khử (không chỉ có 2 lần chạm được nhìn thấy trong bức hình này). 
+
+Đột nhiên, đường R bị phá vỡ, có phải nó chỉ phá vỡ giả (fakeout) hay sự phá vỡ chính thức (genuine)? Làm thế nào để biết được điều đó? À phải rồi, **chúng ta sẽ phải chờ một mẫu FTR được hình thành.**
+
+YEAH, một FTR đẹp mắt đã được tạo ra! Giá sau đó đi xa Resistance một cách nhanh chóng
+
+Bây giờ, giá trở nên rất thú vị, như vậy FTR là một nơi tuyệt vời để giao dịch cho lần thăm đầu tiên. Lần thăm đầu tiên **xuất hiện trong khoảng một tuần**. Và hãy nhìn vào phản ứng! lần thăm đầu tiên FTR được gọi là FTB (First Time Back).
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftb-to-ftr.png)
+
+### Gợi ý 3: Khi trên đường trở về FTR giá đang rơi xuống một cách tự do, mọi người vui vẻ nhảy vào xu hướng. Bởi vì "Nó đang đi và ..." nhưng hãy cẩn thận, những tay săn mồi kiên nhẫn đang chờ đợi tại FTR, và bạn cũng nên như thế...
+
+Để thuận tiện cho bạn, có 2 ví dụ dưới đây:
+
+Ví dụ 1
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftb-to-ftr-2.png)
+
+Ví dụ 2
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftb-to-ftr-3.png)
+
+### S/R phụ (Minor S/R)
+
+Điều này quan trọng để biêt rằng những FTR trong 3 biểu đồ ở trên, không phải là những FTR duy nhất được phát hiện. Nói cách khác! Mỗi khi giá breaks một S/R phụ, fail to return và tiếp tục, một FTR mới đã được tạo ra.
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-minor-s.png)
+
+Trong thực thế, biểu đồ hiếm ghi trông gọn gàng và sạch sẽ như trong mô hình ở trên. Biểu đồ dưới đây, bạn có thể nhìn thấy nguyên tắc ở trên trong biểu đồ thực tế (trong một trend giảm)
+
+![](https://github.com/vuongmao/forexcollection/blob/master/SupplyDemandRTM/asset/ftr-minor-in-real.png)
+
+Hãy dành thời gian và học ở biểu đồ trên, bạn có lẽ chú ý thấy rằng tôi không đánh dầu hoàn toàn tất cả các FTR bởi vì biểu đồ sẽ rất bừa bộn. Mở một biểu đồ trên nền tảng giao dịch của bạn và đánh dấu tất cả các FTR. Thực hành! đánh dấu điểm Swing High/Low, tìm nơi nó đã tạo engulfed, sau đó tìm FTR, lặp lại với mức high/low kế tiếp.
+
+Hãy nhớ, mục đích của bài học này không nói cho bạn rằng mỗi FTR đều có thể trade, nhưng dạy cho bạn như thế nào để phát hiện vùng FTR và như thế nào để đánh dấu nó. Để tôi lặp lại điều này: Nó là một điểu cực kỳ quan trọng!

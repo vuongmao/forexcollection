@@ -20,7 +20,7 @@ Thực tế giá khi đi đến được rào cản nhất định, một là n�
 
 Tại sao? Chà, Có một áp lực (Pressure) mua hoặc bán gọi là Supply/Demand tại FTR, và giá không thể quay trở lại, nó phải tiếp tục theo xu hướng bị phá vỡ.
 
-### Gợi ý 1: Áp lực (pressure) hay bán luôn sót lại ở FTR sau khi giá đã rời khỏi đó. Bạn có nhìn thấy một hàm ý không?
+### Gợi ý 1: Áp lực (pressure) mua hay bán luôn sót lại ở FTR sau khi giá đã rời khỏi đó. Bạn có nhìn thấy một hàm ý không?
 
 Bây giờ chúng ta hãy xem xét giải phẫu học của FTR
 

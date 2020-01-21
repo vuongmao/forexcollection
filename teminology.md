@@ -1,4 +1,4 @@
-# Term have the same meaning
+# The Terms have the same meaning
 
 Indecision = Balance = Equilibrium = Stable = Normal = Efficient = Base = Cluster = Block = Range = Consolidation = Flag
 
